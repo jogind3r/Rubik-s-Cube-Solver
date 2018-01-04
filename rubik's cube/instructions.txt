@@ -3,13 +3,12 @@ Hi there,
 
 how to install?
 
-1. install python-2.7 and Vpython-win-py-2.7 
-   provided in the package folder.
+1. install python-2.7 and Vpython-win-py-2.7 from http://vpython.org/
 2. double click the cube.py to run.
 
 3. if idle or vidle editor opens instead of running the program then press f5 to
 	run it through the idle editor. 
 
-			   contact Joginder Singh
-			     ph. no :9815468410
-			 email.ID:jogind3r@gmail.com
+			     contact Joginder
+			      ph.:9815468410
+			 email:jogind3r@gmail.com
